@@ -1,5 +1,4 @@
 # Calculates the sunrise/sunset times for a given date, lattitude, longitude, and altitude
-# Usage: ruby sun.rb <date> <latitude> <longitude> <altitude>
 
 require 'date'
 
